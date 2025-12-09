@@ -57,8 +57,8 @@ Dependências:
 Clone o repositório:
 
 ``` bash
-git clone https://github.com/SEU-USUARIO/SEU-REPO.git
-cd SEU-REPO
+git git@github.com:TMJacometti/PythonGames.git
+cd PythonGames
 ```
 
 Crie um ambiente virtual (opcional):
